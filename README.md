@@ -1,11 +1,20 @@
 # 6 GPU Mining Rig
 
+![](images/IMG_4623.JPG)
+
+## General info
+
+* Dimensions: 540x340x340mm
+* Support for two PSUs
+* Stackable
+* Build cost: ~€60
+
 ## Parts, materials and tools
 
 ### Metal
-* 5x 2020 50mm profiles
-* 8x 2020 30mm profiles
-* 2x 2020 15mm profiles
+* 5x 2020 500mm profiles
+* 8x 2020 300mm profiles
+* 2x 2020 150mm profiles
 * 16x M3 10mm screws
 * 36x M4 10mm screws
 * 8x PC case 4mm screws
