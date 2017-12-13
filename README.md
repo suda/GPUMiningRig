@@ -43,6 +43,8 @@
 
 ## Assembly
 
+**Note:** Any dimensions are measured on the inner parts of the frame.
+
 #### 1. Thread all the profiles
 ![](images/assembly/IMG_4875.JPG)
 
@@ -62,21 +64,26 @@
 ![](images/assembly/IMG_5283.jpg)
 
 #### 6. Screw the PSU support Right Angle Brackets
+**Note:** ~116mm from the back.
 ![](images/assembly/IMG_5285.jpg)
 
 #### 7. Screw the MOBO standoffs and MOBO
+**Note:** Leave ~100mm on both sides.
 ![](images/assembly/IMG_5284.jpg)
 
 #### 8. Screw the PSUs to the main frame
 ![](images/assembly/IMG_5288.jpg)
 
 #### 9. Screw the raiser beam using the M5 screws, 15mm+50mm profiles and the two 2020 Corner Connectors to the frame using Right Angle Brackets
+**Note:** 100mm from the front.
 ![](images/assembly/IMG_5290.jpg)
 
 #### 10. Screw the Raiser Rails to the beam using M4 screws
+**Note:** Place the first one by the left edge and then space other ones 44mm apart.
 ![](images/assembly/IMG_5292.jpg)
 
 #### 11. Screw the GPU Bracket Rails to the upper part of the frame
+**Note:** Place the first one by the right edge and then space other ones 55mm apart.
 ![](images/assembly/IMG_5296.jpg)
 
 #### 12. Screw the raisers to the Raiser Rails with M3 screws
