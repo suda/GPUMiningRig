@@ -9,6 +9,15 @@
 * Stackable
 * Build cost: ~€60
 
+### 💰 Donations
+
+If you successfully build one I would appreciate some kickback ☺️
+
+* **BTC:** `1K7Uc9MDzokCGEsUxrQQXn59VQ1Q9AWGvZ`
+* **BCH:** `1BHM8oACVN6F4xksXAAP3nR9EoAkfd8sGF`
+* **ETH:** `0x8CcA7589d8061ad4D3D913412d1EAD71cbEae081`
+* **LTC:** `LRJ4Evzmyynp8Uswiy7e2uWhPKBNiSHroq`
+
 ## Parts, materials and tools
 
 ### Metal
