@@ -58,7 +58,7 @@ If you successfully build one I would appreciate some kickback ☺️
 ![](images/assembly/IMG_4875.JPG)
 
 #### 2. Put M4 nuts into all printed T Slot nuts
-![](images/assembly/IMG_4871.JPG)
+![](images/assembly/Step1.gif)
 
 
 #### 3. Place the T Slot nuts in the following profiles:
