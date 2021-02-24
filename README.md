@@ -28,7 +28,7 @@ If you successfully build one I would appreciate some kickback ☺️
 * 40x M4 8mm screws
 * 8x PC case 4mm screws
 * 40x M4 nuts
-* 24x M5 5mm screws
+* 28x M6 16mm screws (Make sure to get flat, countersunk screwheads)
 * Zip ties
 
 ### 3D Printed
