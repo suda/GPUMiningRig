@@ -48,7 +48,7 @@ If you successfully build one I would appreciate some kickback ☺️
 ### Tools
 
 * Drill
-* M5 screw tap
+* M6 screw tap
 * 3D Printer
 
 ## Assembly
