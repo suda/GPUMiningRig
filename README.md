@@ -68,7 +68,7 @@ If you successfully build one I would appreciate some kickback ☺️
 	* 3 nuts in 400mm
 	* 4x 2 nuts in 300mm
 
-#### 4. Screw the frame together using the M5 screws, 300mm+500mm profiles and the 2020 Corner Connectors
+#### 4. Screw the frame together using the M6 screws, 300mm+500mm profiles and the 2020 Corner Connectors
 
 #### 5. Screw the PSU frames to both power supplies
 ![](images/assembly/IMG_5283.jpg)
@@ -84,7 +84,7 @@ If you successfully build one I would appreciate some kickback ☺️
 #### 8. Screw the PSUs to the main frame
 ![](images/assembly/IMG_5288.jpg)
 
-#### 9. Screw the raiser beam using the M5 screws, 150mm+500mm profiles and the two 2020 Corner Connectors to the frame using Right Angle Brackets
+#### 9. Screw the raiser beam using the M6 screws, 150mm+500mm profiles and the two 2020 Corner Connectors to the frame using Right Angle Brackets
 **Note:** 100mm from the front.
 ![](images/assembly/IMG_5290.jpg)
 
