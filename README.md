@@ -43,7 +43,11 @@ If you successfully build one I would appreciate some kickback ☺️
 * 4x [Right Angle Bracket](parts_others/90_bracket.stl)
 * 10x [2020 Corner Connector](parts_others/2020_connect_v2.stl)
 * 40x [T Slot nut](parts_others/t_slot_nut_m4.stl)
+
+## Optional
 * 4x [Feet_v1](parts/Feet_v1.stl)
+* 4x [Rail-Snapper-Insert__MotherBoardv1](parts/Rail-Snapper-Insert__MotherBoardv1.stl)
+* 	These can be used to snap the motherboard brackets into place, so you won't need the screws.
 
 ### Tools
 
