@@ -28,7 +28,7 @@ If you successfully build one I would appreciate some kickback ☺️
 * 40x M4 8mm screws
 * 8x PC case 4mm screws
 * 40x M4 nuts
-* 24x M5 5mm screws
+* 28x M6 16mm screws (Make sure to get flat, countersunk screwheads)
 * Zip ties
 
 ### 3D Printed
@@ -41,13 +41,18 @@ If you successfully build one I would appreciate some kickback ☺️
 * 2x [40mm Mobo Bracket Rail](parts/MoboBracketRail40mm.stl)
 * 3x [33mm Mobo Bracket Rail](parts/MoboBracketRail33mm.stl)
 * 4x [Right Angle Bracket](parts_others/90_bracket.stl)
-* 8x [2020 Corner Connector](parts_others/2020_connect_v2.stl)
+* 10x [2020 Corner Connector](parts_others/2020_connect_v2.stl)
 * 40x [T Slot nut](parts_others/t_slot_nut_m4.stl)
+
+## Optional
+* 4x [Feet_v1](parts/Feet_v1.stl)
+* 4x [Rail-Snapper-Insert__MotherBoardv1](parts/Rail-Snapper-Insert__MotherBoardv1.stl)
+* 	These can be used to snap the motherboard brackets into place, so you won't need the screws.
 
 ### Tools
 
 * Drill
-* M5 screw tap
+* M6 screw tap
 * 3D Printer
 
 ## Assembly
@@ -58,16 +63,16 @@ If you successfully build one I would appreciate some kickback ☺️
 ![](images/assembly/IMG_4875.JPG)
 
 #### 2. Put M4 nuts into all printed T Slot nuts
-![](images/assembly/IMG_4871.JPG)
+![](images/assembly/Step1.gif)
 
 
 #### 3. Place the T Slot nuts in the following profiles:
-	* 2x 6 nuts in 50mm
-	* 7 nuts in 50mm
-	* 3 nuts in 40mm
-	* 4x 2 nuts in 30mm
+	* 2x 6 nuts in 500mm
+	* 7 nuts in 500mm
+	* 3 nuts in 400mm
+	* 4x 2 nuts in 300mm
 
-#### 4. Screw the frame together using the M5 screws, 30mm+50mm profiles and the 2020 Corner Connectors
+#### 4. Screw the frame together using the M6 screws, 300mm+500mm profiles and the 2020 Corner Connectors
 
 #### 5. Screw the PSU frames to both power supplies
 ![](images/assembly/IMG_5283.jpg)
@@ -83,7 +88,7 @@ If you successfully build one I would appreciate some kickback ☺️
 #### 8. Screw the PSUs to the main frame
 ![](images/assembly/IMG_5288.jpg)
 
-#### 9. Screw the raiser beam using the M5 screws, 15mm+50mm profiles and the two 2020 Corner Connectors to the frame using Right Angle Brackets
+#### 9. Screw the raiser beam using the M6 screws, 150mm+500mm profiles and the two 2020 Corner Connectors to the frame using Right Angle Brackets
 **Note:** 100mm from the front.
 ![](images/assembly/IMG_5290.jpg)
 
