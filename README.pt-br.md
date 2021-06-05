@@ -1,5 +1,9 @@
 # Rig de Mineração para 6 GPUs
 
+<p align="center"><em>
+	Leia isso em outros idiomas: <a href="README.md">English</a>, <a href="README.pt-br.md">Português-Brasil</a>
+</em></p>
+
 ![Rig Montada](images/IMG_4623.JPG)
 
 ## Disclaimer
