@@ -54,7 +54,7 @@ Caso consiga construir uma RIG utilizando este documento, considere apoiar o aut
 * 10x [Conectores de canto 2020](parts_others/2020_connect_v2.stl)
 * 40x [Slots de porca-martelo](parts_others/t_slot_nut_m4.stl)
 
-## Optional
+### Opcional
 * 4x [Pés de sustentação](parts/Feet_v1.stl)
 * 4x [Encaixes de trilho para a placa-Mãe](parts/Rail-Snapper-Insert__MotherBoardv1.stl)
 	* Esses podem ser utilizados para encaixar os suportes da placa-Mãe, assim você não precisa dos parafusos.
@@ -72,7 +72,7 @@ Caso consiga construir uma RIG utilizando este documento, considere apoiar o aut
 #### 1. Faça as roscas em todos os perfis
 ![](images/assembly/IMG_4875.JPG)
 
-#### 2. Coloque porcas M4 em todos os clots de porca-martelo
+#### 2. Coloque porcas M4 em todos os slots de porca-martelo
 ![](images/assembly/Step1.gif)
 
 
@@ -82,7 +82,7 @@ Caso consiga construir uma RIG utilizando este documento, considere apoiar o aut
 	* 3 porcas em 1 perfil de 400mm
 	* 2 porcas em 4 perfis de 300mm
 
-#### 4. Parafuse o a estrutura utilizando os parafusos M6, os perfis de 300mm e 500mm e os conectores de canto 2020
+#### 4. Parafuse a estrutura utilizando os parafusos M6, os perfis de 300mm e 500mm e os conectores de canto 2020
 
 #### 5. Parafuse as fontes de alimentação aos seus respectivos Quadros
 ![](images/assembly/IMG_5283.jpg)
