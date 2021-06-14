@@ -1,5 +1,9 @@
 # 6 GPU Mining Rig
 
+<p align="center"><em>
+	Read this in other languages: <a href="README.md">English</a>, <a href="README.pt-br.md">Português-Brasil</a>
+</em></p>
+
 ![](images/IMG_4623.JPG)
 
 ## General info
